@@ -1,0 +1,8 @@
+D:\Code\Visual Studio 2010\FTP\FTP\bin\Debug\FTP.exe
+D:\Code\Visual Studio 2010\FTP\FTP\bin\Debug\FTP.pdb
+D:\Code\Visual Studio 2010\FTP\FTP\obj\x86\Debug\FTP.Form1.resources
+D:\Code\Visual Studio 2010\FTP\FTP\obj\x86\Debug\FTP.Properties.Resources.resources
+D:\Code\Visual Studio 2010\FTP\FTP\obj\x86\Debug\FTP.csproj.GenerateResource.Cache
+D:\Code\Visual Studio 2010\FTP\FTP\obj\x86\Debug\FTP.exe
+D:\Code\Visual Studio 2010\FTP\FTP\obj\x86\Debug\FTP.pdb
+D:\Code\Visual Studio 2010\FTP\FTP\obj\x86\Debug\FTP.csprojResolveAssemblyReference.cache
